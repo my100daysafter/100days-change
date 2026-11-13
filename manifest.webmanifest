@@ -1,0 +1,9 @@
+{
+  "name": "100일의 변화",
+  "short_name": "100일의 변화",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f7f5f0",
+  "theme_color": "#f7f5f0",
+  "lang": "ko"
+}
